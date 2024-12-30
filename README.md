@@ -9,7 +9,11 @@ Here is a quick look at the app's screenshots:
 ![screenshot](assets/images/screen11.png)
 ![screenshot](assets/images/screen22.png)
 
-![screen-record](assets/videos/henna_bee_video.mp4)
+## App video
+
+Here is a video link of the app:
+
+![Watch the video](https://youtube.com/shorts/LOKpoJMVBgI)
 
 ## App Features
 - Splash screen
