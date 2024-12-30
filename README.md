@@ -5,6 +5,7 @@ A cross-platform mobile application for a Henna Application where users can crea
 ## App Screenshots
 
 Here is a quick look at the app's screenshots:
+
 ![screenshot](assets/images/screen1.png)
 ![screenshot](assets/images/screen2.png)
 ![screenshot](assets/images/screen3.png)
