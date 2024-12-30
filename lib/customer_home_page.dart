@@ -2,6 +2,7 @@ import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
+import 'package:henna_bee/authentication/login_screen.dart';
 import 'package:henna_bee/client/customer_aboutus_page.dart';
 import 'package:henna_bee/client/customer_contactus_page.dart';
 import 'package:henna_bee/client/customer_home_page1.dart';
@@ -34,7 +35,7 @@ class _CustomerHomePageState extends State<CustomerHomePage> {
       btnCancelText: 'NO',
       btnOkOnPress: () {
 
-        Get.offAll(() => const CustomerHomePage());
+        Get.offAll(() => const LoginScreen());
       },
     ).show();
   }
