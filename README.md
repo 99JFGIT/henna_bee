@@ -8,6 +8,8 @@ Here is a quick look at the app's screenshots:
 ![screenshot](assets/images/screen1.png)
 ![screenshot](assets/images/screen2.png)
 ![screenshot](assets/images/screen3.png)
+![screenshot](assets/images/screen4.png)
+![screenshot](assets/images/screen5.png)
 
 ## App Features
 - Splash screen
