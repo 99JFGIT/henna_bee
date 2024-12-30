@@ -13,7 +13,7 @@ Here is a quick look at the app's screenshots:
 
 Here is a video link of the app:
 
-![Watch the video](https://youtube.com/shorts/LOKpoJMVBgI)
+[Watch the Henna Bee App](https://youtube.com/shorts/LOKpoJMVBgI)
 
 ## App Features
 - Splash screen
