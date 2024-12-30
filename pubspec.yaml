@@ -83,6 +83,7 @@ flutter:
     - assets/images/gorgeous_design/
     - assets/images/different_design/
     - assets/images/arabic_design/
+    - assets/videos/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
